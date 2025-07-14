@@ -14,14 +14,14 @@ main:
   - title: "Talks"
     url: /talks/    
 
+  - title: "Awards/Affliations"
+    url: /awards/
+
   - title: "Teaching/Supervision"
     url: /teaching/    
-    
-  - title: "Awards/Affliations"
-    url: /Awards/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
   - title: "CV"
     url: /cv/

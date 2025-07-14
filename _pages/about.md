@@ -1,11 +1,25 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Professor Dr. Larissa Katz's Academic Website!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Short Bio
+Short Bio
+Short Bio
+Short Bio
+
+Employment History
+======
+- Cecil A. Wright Chair (2025-) and Full Professor, University of Toronto (2020-ongoing); crossappointed to the Munk School of Global Affairs and Public Policy (2021-ongoing)
+- Associate Dean (Graduate Programs), University of Toronto (January 1, 2023-January 1, 2025)
+- Associate Professor, University of Toronto (2013-2020)
+- Assistant and Associate Professor, Queen’s University (2004- 2013)
+- Litigation Associate, Sullivan & Cromwell LLP, New York, NY (2001-2003)
+- Law Clerk to the late Hon. Mr. Justice Charles Gonthier, Supreme Court of Canada (2000-2001)
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 

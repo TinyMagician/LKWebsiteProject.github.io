@@ -41,7 +41,7 @@ author:
   pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
-  SSRN             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=466216"
+  # SSRN             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=466216"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
