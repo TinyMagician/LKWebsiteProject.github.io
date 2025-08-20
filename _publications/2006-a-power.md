@@ -2,7 +2,7 @@
 title: "A Powers-based Approach to the Protection of Ideas"
 collection: publications
 category: manuscripts
-permalink: /publication/2006-01-01-paper-title-number-1
+permalink: /publication/2006-a-power
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2006
 venue: 'Cardozo Arts and Entertainment Law Journal'
