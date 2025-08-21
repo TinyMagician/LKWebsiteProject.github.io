@@ -1,4 +1,39 @@
 pub_date	title	venue	excerpt	citation	url_slug	paper_url	slides_url
-2009-10-01	Paper Title Number 1	Journal 1	This paper is about the number 1. The number 2 is left for future work.	Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).	paper-title-number-1	http://academicpages.github.io/files/paper1.pdf	http://academicpages.github.io/files/slides1.pdf
-2010-10-01	Paper Title Number 2	Journal 1	This paper is about the number 2. The number 3 is left for future work.	Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).	paper-title-number-2	http://academicpages.github.io/files/paper2.pdf	http://academicpages.github.io/files/slides2.pdf
-2015-10-01	Paper Title Number 3	Journal 1	This paper is about the number 3. The number 4 is left for future work.	Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).	paper-title-number-3	http://academicpages.github.io/files/paper3.pdf	http://academicpages.github.io/files/slides3.pdf
+Forthcoming	Rule of Law Thinking in Justice Russell Brown’s Private and Public Law	Supreme Court Law Review		"Katz L. (2025) Rule of Law Thinking in Justice Russell Brown’s Private and Public Law, Supreme Court Law Review (with Preston Lim)"			
+Forthcoming	Acting at Your Own Peril: Doing Wrong without Violating Rights	Law and Philosophy		"Katz L. (2025) Acting at Your Own Peril: Doing Wrong without Violating Rights, Law and Philosophy (forthcoming Symposium on Nicolas Cornell: Wrongs and Rights Come Apart)"			
+Forthcoming	"Having, Owing, Doing"	Property Contract Interface		"Katz L. (2025) Having, Owing, Doing in Henry Smith and James Penner, eds., Property Contract Interface (forthcoming)"			
+2024	Mapmaking and Legitimacy	Stephen A. Smith Private Law Theory		"Katz L. (2024) ‘Mapmaking and Legitimacy’ in Lionel Smith, ed., Stephen A. Smith Private Law Theory (OUP)"			
+2023	Rights Without Standing	Private Law Methodology		"Katz L. (2023) ‘Rights Without Standing’ in Paul Miller & John Oberdiek, eds., Private Law Methodology (OUP)"			
+2023	Property: Authority without Office?	Journal of Law and Political Economy		"Katz L. (2023) (with Rutger Claassen), ‘Property: Authority without Office?’ Journal of Law and Political Economy"			
+Work in progress	People (Offices) and Things: Property in the Legal Order	Oxford University Press		People (Offices) and Things: Property in the Legal Order (under contract with Oxford University Press)			
+Work in progress	Equity: The Guardian of the Legal Order			Equity: The Guardian of the Legal Order (in progress)			
+Work in progress	Advanced Introduction to Property Law and Theory	Elgar		Advanced Introduction to Property Law and Theory (under contract with Elgar)			
+2022	Property’s Limits	Jurisprudence		Katz L. (2022) ‘Property’s Limits’ 13 Jurisprudence 636			
+2021	The Role of Plaintiffs in Private Law Institutions	Private Law and Practical Reason		"Katz, L. (2021) (with Matthew Shapiro), “The Role of Plaintiffs in Private Law Institutions” in Sandy Steel, ed., Private Law and Practical Reason: Essays on John Gardner’s Private Law Theory (OUP)"			
+2020	The Wrong of Derogation	Oxford Studies in Private Law		"Katz, L. (2020) ‘The Wrong of Derogation’ in J. Oberdiek & P. Miller, eds., The Oxford Studies in Private Law (OUP)"			
+2020	Equitable Remedies and “What We Have Coming to Us”	Notre Dame Law Review		"Katz, L (2020) ‘Equitable Remedies and “What We Have Coming to Us”,’ 96 Notre Dame Law Review 1115"			
+2020	It’s Not Personal: Social Obligations in the Office of Ownership	Cornell Journal of Law & Public Policy		"Katz, L (2020) ‘It’s Not Personal: Social Obligations in the Office of Ownership,’ 29 Cornell J. of L. & Pub. Pol. 101"			
+2020	Ownership and Office: The Building Blocks of a Legal Order	University of Toronto Law Journal		"Katz, L (2020) ‘Ownership and Office: The Building Blocks of a Legal Order,’ 70 University of Toronto Law Journal 267"			
+2020	Introduction to the Idea of Office in Law and Jurisprudence	University of Toronto Law Journal		"Katz, L (with Nicole Roughan), (2020) ‘Introduction to the Idea of Office in Law and Jurisprudence,’ 70 University of Toronto Law Journal 163"			
+2020	Conscience with a Filter	Jerusalem Review of Legal Studies		"Katz, L (2020) ‘Conscience with a Filter,’ 21 Jerusalem Review of Legal Studies  22."			
+2019	Shares as Shares	Modern Studies in Property Law		"Katz L (2019) ‘Shares as Shares’ in S. Agnew & B. McFarlane, eds., Modern Studies in Property Law (Bloomsbury 2019)"			
+2019	Foreword	The Seminal Work of Leon Duguit		"Katz, L (2019) ‘Foreward’ in Paul Babie & Jessica, Vivien-Wilksch, eds., The Seminal Work of Leon Duguit (Springer 2018)"			
+2019	Blowing Hot and Cold	Civil Wrongs and Justice in Private Law		"Katz, L (2019) ‘Blowing Hot and Cold’ in John Oberdiek & Paul Miller, eds., Civil Wrongs and Justice in Private Law (OUP)"			
+2019	Equity: Pathways to Legal Rights	Philosophical Foundations of Equity		"Katz, L (2019) ‘Equity: Pathways to Legal Rights’ in Dennis Klimchuk, Irit Samet, & Henry E. Smith, eds., Philosophical Foundations of Equity (OUP)"			
+2019	"The Philosophy of Property Law, Three Ways"	Cambridge Companion to Law and Philosophy		"Katz, L (2019) “The Philosophy of Property Law, Three Ways” in John Tasioulis, Cambridge Companion to Law and Philosophy (CUP)"			
+2018	Legal Forms and Property	Property Theory: Legal and Political Perspectives		"Katz, L (2018) ‘Legal Forms and Property’ in M. Otsuka & J.E. Penner, eds., Property Theory: Legal and Political Perspectives (CUP)"			
+2017	Property’s Sovereignty	Theoretical Inquiries in Law		"Katz, L (2017) ‘Property’s Sovereignty,’ 18 Theoretical Inq. In Law 299"			
+2014	The Relativity of Title and Causa Possessionis	Philosophical Foundations of Property Law		"Katz, L (2014) ‘The Relativity of Title and Causa Possessionis’ in J.E. Penner & H.E. Smith, eds., The Philosophical Foundations of Property Law (OUP)"			
+2013	Spite and Extortion: A Principle of Abuse of Property Right	Yale Law Journal		"Katz, L (2013) ‘Spite and Extortion: A Principle of Abuse of Property Right,’ 122 Yale Law Journal 1444"			
+2013	Causa Possessionis and Relativity of Title	Philosophical Foundations of Property Law		"Katz, L (2013) ‘Causa Possessionis and Relativity of Title,’ in H.E. Smith & J.E. Penner, eds., Philosophical Foundations of Property Law (OUP)"			
+2013	The Moral Paradox of Adverse Possession	Property and Sovereignty		"Katz, L (2013) ‘The Moral Paradox of Adverse Possession,’ in James Smith ed., Property and Sovereignty (Ashgate)"			
+2012	Governing Through Owners	University of Pennsylvania Law Review		"Katz, L (2012) ‘Governing Through Owners: How and Why Formal Private Property Rights Enhance State Power,’ 160 U. Pennsylvania Law Review 2030"			
+2011	The Regulative Function of Property Rights	Journal of Economic Watch		"Katz, L (2011) ‘The Regulative Function of Property Rights,’ J. of Econ Watch 236"			
+2011	Ownership and Social Solidarity	Legal Theory		"Katz, L (2011) ‘Ownership and Social Solidarity,’ 17 Legal Theory 119"			
+2011	The Concept of Ownership and the Relativity of Title	Jurisprudence		"Katz, L (2011) ‘The Concept of Ownership and the Relativity of Title,’ 2(1) Jurisprudence 191"			
+2010	Red Tape and Gridlock: Flight to the Informal Sector	Canadian Journal of Law and Jurisprudence		"Katz, L (2010) ‘Red Tape and Gridlock: Flight to the Informal Sector,’ 23 Canadian Journal of Law and Jurisprudence 99"			
+2010	The Moral Paradox of Adverse Possession: Sovereignty and Revolution in Property Law	McGill Law Journal		"Katz, L (2010) ‘The Moral Paradox of Adverse Possession: Sovereignty and Revolution in Property Law,’ 55 McGill Law Journal 47"			
+2010	Red Tape and Gridlock	Hernando de Soto in a Modern Market Economy		"Katz, L. (2010) ‘Red Tape and Gridlock’ in D. Ben Barros ed., Hernando de Soto in a Modern Market Economy (Ashgate 2010)"			
+2009	A Traditionalist’s Property Jurisprudence	Justice Bertha Wilson: One Woman’s Difference		"Katz, L (2009) ‘A Traditionalist’s Property Jurisprudence’ in Kim Brooks, ed., Justice Bertha Wilson: One Woman’s Difference (UBC Press 2009)"			
+2008	Exclusion and Exclusivity in Property Law	University of Toronto Law Journal		"Katz, L (2008) ‘Exclusion and Exclusivity in Property Law,’ 58 University of Toronto Law Journal 275"			
+2006	A Powers-based Approach to the Protection of Ideas	Cardozo Arts and Entertainment Law Journal		"Katz, L (2006) ‘A Powers-based Approach to the Protection of Ideas,’ 23 Cardozo Arts and Entertainment Law Journal 687"			
