@@ -1,14 +1,14 @@
 ---
-title: "A Powers-based Approach to the Protection of Ideas"
+title: "Exclusion and Exclusivity in Property Law"
 collection: publications
 category: manuscripts
-permalink: /publication/2006-10-01-paper-title-number-1
+permalink: /publication/2008-12-01-exclusion-and
 excerpt: 'This is a short descriptions of the paper: XXXXXX XXXXXXXX XXXXXXXXXXX XXXXX XXXXXXX XXXXXXXXXXXXX XXXXXX XXXXXXXX XXXXXXXXX XXXXXXXXX XXXXXXXX XXXXXXXXX.'
-date: 2006-10-01
-venue: 'Cardozo Arts and Entertainment Law Journal'
+date: 2008-12-01
+venue: 'University of Toronto Law Journal'
 slidesurl: ''
 paperurl: ''
 bibtexurl: ''
-citation: 'Katz, L (2006) A Powers-based Approach to the Protection of Ideas, 23 Cardozo Arts and Entertainment Law Journal 687'
+citation: 'Katz, L (2008) ‘Exclusion and Exclusivity in Property Law,’ 58 University of Toronto Law Journal 275'
 ---
 Abstrict XXXXXXX XXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXX XXXXXXXX XXXXXXXX XXXXXXXX XXXXXXXX XXXXXXXX XXXXXXXX XXXXXXXX XXXXXXX XXXXX XXXXXXXXX XXXXXX XXXXXXXXX XXXXXX XXXXXXXXXXXX XXXXXX XXXXXXXXXXXXXXX XXXX XXXXXXXX XXXXXXX XXXXXXXX XXXXXXXX XXXXXXXX XXXXXX XXXXXXXXXX XXXXX XXXXXX XXXXXXXXXXX XXXXXXXXX XXXXXXXXXXX XXXXXXXXXXXXXX XXXXXXXXX XXXXXXXX XXXXXXXX XXXXXXX XXXXXXX XXXXXXXXX XXXXXXXXXX.
