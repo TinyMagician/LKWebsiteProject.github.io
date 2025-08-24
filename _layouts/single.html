@@ -36,19 +36,19 @@ layout: default
         
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif post.collection == 'publications' %}
-          {% if post.category == 'workinprogress' %}
-            {% if post.venue %}
-              <p>Contracted with <i>{{ post.venue }}</i></p>
+        {% elsif page.collection == 'publications' %}
+          {% if page.category == 'workinprogress' %}
+            {% if page.venue %}
+              <p>Contracted with <i>{{ page.venue }}</i></p>
             {% endif %}
-          {% elsif post.category == 'forthcoming' %}
-            <p>Forthcoming in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-          {% elsif post.category == 'manuscripts' %}
-            <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-          {% elsif post.category == 'books' %}
-            <p>Published by <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-          {% elsif post.category == 'conferences' %}
-            <p>Presented at <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% elsif page.category == 'forthcoming' %}
+            <p>Forthcoming in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% elsif page.category == 'manuscripts' %}
+            <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% elsif page.category == 'books' %}
+            <p>Published by <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% elsif page.category == 'conferences' %}
+            <p>Presented at <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
           {% endif %}
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
