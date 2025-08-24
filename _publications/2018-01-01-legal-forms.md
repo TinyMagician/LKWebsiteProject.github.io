@@ -1,0 +1,14 @@
+---
+title: "Legal Forms and Property"
+collection: publications
+category: manuscripts
+permalink: /publication/2018-01-01-legal-forms
+excerpt: 'This is a short descriptions of the paper: XXXXXX XXXXXXXX XXXXXXXXXXX XXXXX XXXXXXX XXXXXXXXXXXXX XXXXXX XXXXXXXX XXXXXXXXX XXXXXXXXX XXXXXXXX XXXXXXXXX.'
+date: 2018-01-01
+venue: 'M. Otsuka & J.E. Penner eds., Property Theory: Legal and Political Perspectives'
+slidesurl: ''
+paperurl: ''
+bibtexurl: ''
+citation: 'Katz, L. (2018) ‘Legal Forms and Property’ in M. Otsuka & J.E. Penner eds., Property Theory: Legal and Political Perspectives (CUP)'
+---
+Abstrict XXXXXXX XXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXX XXXXXXXX XXXXXXXX XXXXXXXX XXXXXXXX XXXXXXXX XXXXXXXX XXXXXXXX XXXXXXX XXXXX XXXXXXXXX XXXXXX XXXXXXXXX XXXXXX XXXXXXXXXXXX XXXXXX XXXXXXXXXXXXXXX XXXX XXXXXXXX XXXXXXX XXXXXXXX XXXXXXXX XXXXXXXX XXXXXX XXXXXXXXXX XXXXX XXXXXX XXXXXXXXXXX XXXXXXXXX XXXXXXXXXXX XXXXXXXXXXXXXX XXXXXXXXX XXXXXXXX XXXXXXXX XXXXXXX XXXXXXX XXXXXXXXX XXXXXXXXXX.
