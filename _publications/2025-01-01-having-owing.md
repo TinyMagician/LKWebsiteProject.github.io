@@ -1,7 +1,7 @@
 ---
 title: "Having, Owing, Doing"
 collection: publications
-category: manuscripts
+category: forthcoming
 permalink: /publication/2025-01-01-having-owing
 excerpt: 'This is a short descriptions of the paper: XXXXXX XXXXXXXX XXXXXXXXXXX XXXXX XXXXXXX XXXXXXXXXXXXX XXXXXX XXXXXXXX XXXXXXXXX XXXXXXXXX XXXXXXXX XXXXXXXXX.'
 date: 2025-01-01

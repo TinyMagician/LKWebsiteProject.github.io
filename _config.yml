@@ -82,6 +82,8 @@ author:
 publication_category:
   worksinprogress:
     title: 'Works in Progress'
+  forthcoming:
+    title: 'Forthcoming'
   books:
     title: 'Books'
   manuscripts:
