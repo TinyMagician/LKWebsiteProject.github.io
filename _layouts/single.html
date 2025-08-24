@@ -37,7 +37,7 @@ layout: default
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.collection == 'publications' %}
-          {% if page.category == 'workinprogress' %}
+          {% if page.category == 'worksinprogress' %}
             {% if page.venue %}
               <p>Contracted with <i>{{ page.venue }}</i></p>
             {% endif %}
