@@ -88,8 +88,10 @@ publication_category:
     title: 'Books'
   manuscripts:
     title: 'Journals and Book Chapters'    
+  reports:
+    title: 'Media/Government/NGO/Courts'
   conferences:
-    title: 'Conference Papers'
+    title: 'Workshops and Presentations'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
