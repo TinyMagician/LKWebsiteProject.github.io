@@ -3,7 +3,7 @@ title: "A Traditionalist’s Property Jurisprudence"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-01-01-a-traditionalists
-excerpt: 'This is a short descriptions of the paper: XXXXXX XXXXXXXX XXXXXXXXXXX XXXXX XXXXXXX XXXXXXXXXXXXX XXXXXX XXXXXXXX XXXXXXXXX XXXXXXXXX XXXXXXXX XXXXXXXXX.'
+excerpt: '**Keywords:**'
 date: 2009-01-01
 venue: 'Kim Brooks ed., Justice Bertha Wilson: One Woman’s Difference'
 slidesurl: ''
