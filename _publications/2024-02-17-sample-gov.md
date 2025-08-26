@@ -3,7 +3,7 @@ title: "Sample Government Report"
 collection: publications
 category: reports
 permalink: /publication/2024-02-17-sample-gov
-excerpt: 'This paper is about fixing template issue'
+excerpt: 'This presentation is about XXXXXXX XXXXX XXXXXXXXXXX XX XX XXXXXXX XXXXXX XXXXXXXX XXXXXX XXXXXX.'
 date: 2024-02-17
 venue: 'GitHub Journal of Bugs'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
